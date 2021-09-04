@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things about computing and career transition!
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me on twitter, youtube or instagrama with the same @ name!
+- 📫 How to reach me on twitter, youtube or instagram with the same @ name!
 
 <!---
 KpopMama07/KpopMama07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
