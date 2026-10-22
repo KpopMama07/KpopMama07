@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jasmine
+- 👋 Hi, I’m Jasmine aka Sakura
 - 👀 I’m interested in learning new things about computing and career transition!
 - 🌱 I’m currently learning Advanced HTML and CSS. Along with React JS, SEO and Responsive Development!
 - 💞️ I’m looking to collaborate on web development projects
